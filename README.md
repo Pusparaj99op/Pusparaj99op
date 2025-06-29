@@ -54,8 +54,8 @@
   </a>
   <a href="https://dev.to/your-username">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" />
-  </a>
-</div> -->
+  </a> -->
+</div> 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
