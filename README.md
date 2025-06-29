@@ -66,7 +66,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed83ee.png" alt="Fire" width="40" /> &nbsp; ***FEATURED PROJECTS*** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed83ee.png" alt="Fire" width="40" />
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> &nbsp;***FEATURED PROJECTS*** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
 
 <div align="center">
 <table>
@@ -134,7 +134,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358da61-fbf4-4b70-82dc-b4e675bdb33c.png" alt="Fire" width="40" /> &nbsp; ***ACHIEVEMENTS*** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122003-5358da61-fbf4-4b70-82dc-b4e675bdb33c.png" alt="Fire" width="40" />
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> &nbsp;***ACHIEVEMENTS*** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pusparaj99op&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
@@ -163,190 +163,41 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Fire" width="40" /> &nbsp; ***ABOUT ME IN VISUALS*** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Fire" width="40" />
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e58-be78-22a8bf0052b5.gif" width="100">
-        <br><strong>👨‍💻 DEVELOPER</strong>
-        <br><span style="color: #00b3ff;">Full Stack Expert</span>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/216644505-bd08778c-4319-4de4-904d-98d1ad44e1ca.gif" width="100">
-        <br><strong>🌍 LOCATION</strong>
-        <br><span style="color: #00b3ff;">India 🇮🇳</span>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/216644509-aa2002cc-6b22-4e3e-b2f3-b40c3b89a12a.gif" width="100">
-        <br><strong>🎯 MISSION</strong>
-        <br><span style="color: #00b3ff;">Impact Millions</span>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/216644507-32e4ac8d-e142-4491-a7b3-7b7ad089b15b.gif" width="100">
-        <br><strong>🎲 FUN FACT</strong>
-        <br><span style="color: #00b3ff;">Rubik's Cube < 2min</span>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <br>
-  <h3>🚀 MY SKILL UNIVERSE 🚀</h3>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="20%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
-        <br><strong>Frontend</strong>
-        <br>⭐⭐⭐⭐⭐
-        <br><span style="color: #FFD700;">ADVANCED</span>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
-        <br><strong>Backend</strong>
-        <br>⭐⭐⭐⭐⭐
-        <br><span style="color: #FFD700;">ADVANCED</span>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
-        <br><strong>Database</strong>
-        <br>⭐⭐⭐⭐⭐
-        <br><span style="color: #FFD700;">EXPERT</span>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
-        <br><strong>Problem Solving</strong>
-        <br>⭐⭐⭐⭐⭐
-        <br><span style="color: #FFD700;">EXPERT</span>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
-        <br><strong>Creativity</strong>
-        <br>⭐⭐⭐⭐⭐
-        <br><span style="color: #FFD700;">MASTER</span>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> &nbsp; ***CURRENT FOCUS*** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/216644501-1ab26434-b46b-4013-9b5a-e45b43b607c5.gif" width="120">
-        <br><strong>🚀 Building</strong>
-        <br>Next-gen Web Apps
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/216644503-c0589145-82a3-44ac-9e05-a83c4e9fbb2a.gif" width="120">
-        <br><strong>🌟 Contributing</strong>
-        <br>Open Source Projects
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/216644515-c1b9b84c-b9e6-4fbf-8b0f-2d1f4f1b8c46.gif" width="120">
-        <br><strong>📚 Learning</strong>
-        <br>Cloud Computing & AI/ML
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/216644513-2a8c1e2b-b8f7-43e3-a6b0-b4c7e3e6f8f8.gif" width="120">
-        <br><strong>🤝 Collaborating</strong>
-        <br>Innovative Ideas
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122000-f6802c3f-6333-4661-bc51-6ca4f7c9d4e2.png" alt="Fire" width="40" /> &nbsp; ***CONNECT WITH ME*** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122000-f6802c3f-6333-4661-bc51-6ca4f7c9d4e2.png" alt="Fire" width="40" />
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656967-5eab1e84-ab89-4cfe-9bb8-ac9e22b9def5.gif" width="300">
-</div>
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="16.66%">
-        <a href="mailto:Kalvinshah@hotmail.com">
-          <img src="https://user-images.githubusercontent.com/74038190/235294061-de5c384e-674b-4857-a9d0-6a9df29851d9.gif" width="80">
-          <br><strong>📧 EMAIL</strong>
-        </a>
-      </td>
-      <td align="center" width="16.66%">
-        <a href="https://pusparaj99op.github.io/">
-          <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="80">
-          <br><strong>🌐 PORTFOLIO</strong>
-        </a>
-      </td>
-      <td align="center" width="16.66%">
-        <a href="https://github.com/Pusparaj99op">
-          <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="80">
-          <br><strong>🐙 GITHUB</strong>
-        </a>
-      </td>
-      <td align="center" width="16.66%">
-        <a href="https://linkedin.com/in/pusparaj99op">
-          <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9cc99f.gif" width="80">
-          <br><strong>💼 LINKEDIN</strong>
-        </a>
-      </td>
-      <td align="center" width="16.66%">
-        <a href="https://instagram.com/pusparaj99op">
-          <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80">
-          <br><strong>📸 INSTAGRAM</strong>
-        </a>
-      </td>
-      <td align="center" width="16.66%">
-        <a href="https://youtube.com/@pusparaj99op">
-          <img src="https://user-images.githubusercontent.com/74038190/235294021-cc2048c4-9a0b-4a6e-8b80-dbbc8e0b3bf9.gif" width="80">
-          <br><strong>🎥 YOUTUBE</strong>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🚀 Ready to collaborate on something AMAZING? 🚀</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=💻+Web+Applications+%7C+🤖+AI%2FML+Projects+%7C+🌐+Open+Source;📱+Mobile+Apps+%7C+🎮+Game+Development+%7C+🔥+Innovation;Let's+turn+IDEAS+into+REALITY!+💡✨" alt="Collaboration" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644508-6f5b5c5b-1b46-48c2-9f3e-e2f9b2e3c6c3.gif" width="400">
-</div>
-
-<div align="center">
-  <h2>💫 "Code with PASSION, Debug with PATIENCE!" 💫</h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+line+of+code+at+a+time...;Dream+it%2C+Code+it%2C+Ship+it!+🚀;Innovation+never+stops%2C+neither+do+I!+💪" alt="Motto" />
-</div>
+## <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Fire" width="40" /> &nbsp; ***CODE PHILOSOPHY*** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Fire" width="40" />
 
 ```javascript
-// 🎊 The developer's prayer
-console.log(`
-  🙏 DEVELOPER'S PRAYER 🙏
-  "May your code compile on the first try,
-   May your bugs be easy to find,
-   May your deployments never fail,
-   And may your coffee never run out! ☕"
-`);
+class PusparajDeveloper {
+  constructor() {
+    this.name = "Pusparaj";
+    this.title = "Full Stack Developer";
+    this.location = "India 🇮🇳";
+    this.languages = ["JavaScript", "Python", "TypeScript", "Java", "C++"];
+    this.frameworks = ["React", "Next.js", "Node.js", "Express", "Django"];
+    this.databases = ["MongoDB", "MySQL", "PostgreSQL", "Firebase"];
+    this.tools = ["Git", "Docker", "AWS", "Figma", "VS Code"];
+    this.currentGoal = "Building innovative solutions that impact millions";
+    this.motto = "Code with passion, debug with patience! 🚀";
+  }
+
+  getCurrentWork() {
+    return [
+      "🚀 Building next-gen web applications",
+      "🌟 Contributing to open source projects",
+      "📚 Learning cloud computing & AI/ML",
+      "🤝 Collaborating on innovative ideas"
+    ];
+  }
+
+  getSkillLevel() {
+    return {
+      frontend: "Advanced ⭐⭐⭐⭐⭐",
+      backend: "Advanced ⭐⭐⭐⭐⭐", 
+      problemSolving: "Expert ⭐⭐⭐⭐⭐",
+      creativity: "Master ⭐⭐⭐⭐⭐",
+      rubiksCube: "Under 2 minutes! 🎲"
+    };
+  }
+}
+
+const pusparaj = new PusparajDeveloper();
+console.log(pusparaj.getCurrentWork());
