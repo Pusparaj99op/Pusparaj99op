@@ -1,61 +1,32 @@
-# 👋 Hi there, I'm Pusparaj
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-[![Website](https://img.shields.io/badge/Website-pusparaj99op.github.io-blue?style=flat-square&logo=google-chrome)](https://pusparaj99op.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Pusparaj99op-lightgrey?style=flat-square&logo=github)](https://github.com/Pusparaj99op)
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Pusparaj!
 
-## 💻 About Me
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Innovation+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-I'm a passionate developer focused on building innovative solutions. Welcome to my GitHub profile where I share my projects and contributions.
+</div>
 
-## 🚀 Skills
-
-```
-Programming Languages: [JavaScript, Python, etc.]
-Frameworks & Libraries: [React, Node.js, etc.]
-Tools & Technologies: [Git, Docker, etc.]
-```
-
-## 🔭 Projects
-
-Here are some projects I'm proud of:
-
-- **[INKSYNC]([project-link](https://github.com/Pusparaj99op/InkSync.git))** - Go And Check Out...
-- **[CRYPTO]([project-link](https://github.com/Pusparaj99op/CRYPTO))** - CRYPTO
-
-
-*Check out my [portfolio website](https://pusparaj99op.github.io/) for more projects!*
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pusparaj99op&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pusparaj99op&layout=compact&theme=radical)
-
-## 🌱 Currently Learning
-
-I'm currently improving my skills in:
-- Web Development
-- Data Structures & Algorithms
-- Cloud Computing
-
-## 💞️ Looking to Collaborate
-
-I'm interested in collaborating on projects related to:
-- Web Applications
-- Open Source Tools
-- Educational Technology
-
-## 📫 How to Reach Me
-
-- 📧 Email: Kalvinshah@hotmail.com
-- 💼 LinkedIn: abhi nahi dunga...!!!
-- 🌐 Website: [pusparaj99op.github.io](https://pusparaj99op.github.io/)
-
-## ⚡ Fun Fact
-
-I can solve a Rubik's cube in under two minutes!
+<p align="center">
+  <a href="https://pusparaj99op.github.io/"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"></a>
+  <a href="mailto:Kalvinshah@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Pusparaj99op"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pusparaj99op&color=green" alt="Profile Views">
-</p>
+## 🚀 About Me
+
+```yaml
+name: Pusparaj
+role: Full Stack Developer
+location: India
+passion: Building innovative solutions that matter
+currently_learning: 
+  - Advanced Web Development
+  - Data Structures & Algorithms
+  - Cloud Computing
+fun_fact: "I can solve a Rubik's cube in under two minutes! 🎲"
