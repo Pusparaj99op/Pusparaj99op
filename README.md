@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,10:FCAF45,30:F77737,75:C13584,100:405DE6&height=100&section=header&text=&fontSize=0" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Pusparaj+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Innovation+Enthusiast+%F0%9F%92%A1;Welcome+to+My+Digital+Universe!+%F0%9F%8C%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Pranay+Gajbhiye!!+%F0%9F%91%8B;The+Founder+And+Developer+Of+BlackObsidian+Co.+(AMC)+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Innovation+Enthusiast+%F0%9F%92%A1;Welcome+to+My+Digital+Universe!+%F0%9F%8C%8C" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,11 +14,11 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">***Currently Working On:*** Building the next generation of web applications
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">***Currently Working On:*** Black Obsidian Execution FrameWork
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">***Learning:*** Cloud Computing, AI/ML, Advanced Algorithms
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">***Learning:*** Quantitative Finance, HFT, Advanced Algorithms
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">***Collaboration:*** Open to exciting projects and innovative ideas
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">***Collaboration:*** Open For And To Collaboration
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">***Fun Fact:*** I can solve a Rubik's cube in under 2 minutes! 🎲
 
