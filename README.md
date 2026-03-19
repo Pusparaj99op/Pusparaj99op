@@ -1,41 +1,81 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,10:FCAF45,30:F77737,75:C13584,100:405DE6&height=100&section=header&text=&fontSize=0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,10:FCAF45,30:F77737,75:C13584,100:405DE6&height=120&section=header&text=&fontSize=0" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Pranay+Gajbhiye!!+%F0%9F%91%8B;The+Founder+And+Developer+Of+BlackObsidian+Co+(AMC)+%F0%9F%9A%80;Open+For+Investors+%F0%9F%A7%A9;Welcome+to+My+Digital+Universe!+%F0%9F%92%A1;Here+Most+Of+The+Contributions+Are+Hidden+%F0%9F%8C%8C" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+  <!-- Animated Profile Picture -->
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="150" style="border-radius: 50%;">
+
+  <!-- Dynamic Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Pranay+Gajbhiye!!+%F0%9F%91%8B;The+Founder+And+Developer+Of+BlackObsidian+Co+(AMC)+%F0%9F%9A%80;Open+For+Investors+%F0%9F%A7%A9;Welcome+to+My+Digital+Universe!+%F0%9F%92%A1;Here+Most+Of+The+Contributions+Are+Hidden+%F0%9F%8C%8C;Turning+Coffee+Into+Code+Since+Forever!+%E2%98%95;Building+The+Future%2C+One+Commit+At+A+Time!+%F0%9F%9A%80" alt="Typing SVG" />
+
+  <!-- Profile Views Counter -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Pusparaj99op&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/Pusparaj99op?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/Pusparaj99op?label=Stars&style=social" alt="GitHub Stars" />
+  </p>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> &nbsp;***ABOUT ME*** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">***Currently Working On:*** Black Obsidian Execution Framework
+```yaml
+name: Pranay Gajbhiye
+located_in: India 🇮🇳
+current_role: Founder & Full Stack Developer
+company: BlackObsidian Co (AMC)
+education: ["Computer Science", "Quantitative Finance"]
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">***Learning:*** Quantitative Finance, HFT, Advanced Algorithms
+fields_of_interests:
+  - Web Development
+  - High-Frequency Trading
+  - Algorithm Design
+  - UI/UX Design
+  - Cloud Architecture
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">***Collaboration:*** Open to collaborations on products, tools, and impactful ideas
+currently_learning:
+  - Advanced Trading Algorithms
+  - Quantitative Finance Models
+  - Machine Learning for Finance
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">***Fun Fact:*** I can solve a Rubik's cube in under 2 minutes! 🎲
+hobbies:
+  - Coding & Building Products 💻
+  - Solving Rubik's Cube (Under 2 mins!) 🎲
+  - Contributing to Open Source 🌟
+  - Exploring New Technologies 🚀
+```
 
-<br><br><br>
+### 🎯 What I'm Up To
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> &nbsp;***Currently Working On:*** Building the Black Obsidian Execution Framework - A next-gen platform for algorithmic trading
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> &nbsp;***Tech Focus:*** Quantitative Finance, High-Frequency Trading (HFT), Advanced Data Structures & Algorithms
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> &nbsp;***Open For:*** Collaborations on innovative products, investment opportunities, and impactful tech solutions
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> &nbsp;***2026 Goal:*** Launch multiple SaaS products and reach 100K+ users
+
+<br>
 
 <div align="center">
+
+### 📬 Connect With Me
+
   <a href="mailto:Kalvinshah@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
   </a>
   <a href="https://pusparaj99op.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white&labelColor=101010" />
-  </a>
-  <a href="https://github.com/Pusparaj99op">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=101010" />
   </a>
   <a href="https://www.linkedin.com/in/pranaygajbhiye/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="https://github.com/Pusparaj99op">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" />
   </a>
   <a href="https://www.instagram.com/pranaygajbhiye777/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" />
@@ -43,46 +83,30 @@
   <a href="https://www.youtube.com/@AnonymousRingtonesYT">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010" />
   </a>
-<!--   <a href="https://twitter.com/your-twitter-username">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010" />
-  </a>
-  <a href="https://discord.gg/your-discord-server">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" />
-  </a>
-  <a href="https://stackoverflow.com/users/your-id">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=101010" />
-  </a>
-  <a href="https://dev.to/your-username">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" />
-  </a> -->
+
 </div> 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30"> &nbsp;***LANGUAGES & TOOLS*** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30">
-
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"> -->
-
-<!-- <div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-</div> -->
-
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"> -->
+## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30"> &nbsp;***TECH STACK & EXPERTISE*** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,nextjs,vue,nodejs,express,python,django,flask,cpp,java,c,php,mysql,mongodb,postgresql,firebase,git,github,docker,aws,linux,figma,photoshop,vscode&perline=14" />
+
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,nextjs,vue,tailwind,bootstrap,materialui,redux&perline=12" />
+
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,spring,php,laravel,graphql&perline=10" />
+
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,supabase,aws,gcp,azure,docker&perline=10" />
+
+### 🛠️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman,figma,photoshop,nginx,vercel&perline=10" />
+
+### 📱 Additional Skills
+<img src="https://skillicons.dev/icons?i=cpp,c,go,rust,solidity,kubernetes,tensorflow,pytorch&perline=8" />
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
